@@ -1,0 +1,7 @@
+{
+    "jwtPrivateKey": "unsecureKey",
+    "db": "mongodb://localhost/yalla-notlob",
+    "port": 8000,
+    "requiresAuth": true,
+    "publicPath":"public/images/"
+}
